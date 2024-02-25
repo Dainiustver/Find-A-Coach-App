@@ -1,0 +1,1 @@
+Final Project of VueJS Course on Udemy. Some of the functionality might not be fully supported, because this project needs constant backend support. Currently there is none, because this is a dummy project for learning purposes only.
